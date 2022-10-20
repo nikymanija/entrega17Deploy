@@ -18,7 +18,7 @@
 
 ### Solución
 
-**Deploy:** https://deployentrega17.herokuapp.com
+**Deploy:** https://entrega17deploy.herokuapp.com/
 
 <img src="deployRutaEjemplo.png" alt="Deploy ejemplo"/>
 
